@@ -64,22 +64,7 @@ Infrastructure
 Watch the bot in action on YouTube:
 
 https://youtube.com/shorts/jrOtMkhdPqg?si=btfdg4sJqQFkumRO
----
 
-## Project Structure
-
-keybord/
-constants/
-handlers/  
-database/ 
-config/ 
-routers/
-services/
-utils/  
-app.js
-README.md
-
----
 
 ## Installation
 
