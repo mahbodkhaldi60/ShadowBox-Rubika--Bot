@@ -63,8 +63,7 @@ Infrastructure
 
 Watch the bot in action on YouTube:
 
-https://www.youtube.com/
-
+https://youtube.com/shorts/jrOtMkhdPqg?si=btfdg4sJqQFkumRO
 ---
 
 ## Project Structure
