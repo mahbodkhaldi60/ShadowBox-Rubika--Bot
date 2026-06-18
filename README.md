@@ -55,9 +55,10 @@ Infrastructure
 ---
 
 ## Bot Preview
-
-![Rubika Bot](/src/imag/Bot.png)
----
+<p align="center">
+  <img src="src/imag/Bot.png"/>
+</p>
+ ---
 
 ## Demo Video
 
