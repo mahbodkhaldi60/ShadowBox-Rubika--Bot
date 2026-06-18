@@ -56,7 +56,7 @@ Infrastructure
 
 ## Bot Preview
 
-![Rubika Bot](src/imag/Bot.png)
+![Rubika Bot](/src/imag/Bot.png)
 ---
 
 ## Demo Video
@@ -85,7 +85,7 @@ README.md
 
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/shadowbox-rubika-anonymous-bot.git
+git clone https://github.com/mahbodkhaldi60/shadowbox-rubika-anonymous-bot.git
 
 Navigate into the project
 
