@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Local storage for development (if any)
+.env
+.env.*
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output (if you have a build process)
+dist/
+build/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*~
+
+# MongoDB specific (if you store local data)
+# If you are using a local MongoDB instance and storing data files directly,
+# you might want to ignore those directories, e.g.:
+# data/ # Or whatever your data directory is named
